@@ -1,0 +1,34 @@
+{
+    "symbol": "Kagu",
+    "address": "0x23f714e44ef9b96b888536a1cbfeb8532428543a",
+    "decimals": 9,
+    "name": "Kaguni Token,
+    "ens_address": "",
+    "website": "https://www.kaguni.org/",
+    "logo": {
+      "src": "https://ibb.co/C7nJgKb",
+      "width": "128",
+      "height": "128",
+      "ipfs_hash": ""
+    },
+    "support": {
+      "email": "info@kaguni.org",
+      "url": ""
+    },
+    "social": {
+      "blog": "",
+      "chat": "",
+      "discord": "",
+      "facebook": "",
+      "forum": "",
+      "github": "",
+      "gitter": "",
+      "instagram": "",
+      "linkedin": "",
+      "reddit": "",
+      "slack": "",
+      "telegram": "https://t.me/kaguniToken",
+      "twitter": "https://twitter.com/KaguniToken",
+      "youtube": ""
+    }
+}
